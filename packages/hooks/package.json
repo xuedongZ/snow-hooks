@@ -16,8 +16,8 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "repository": "https://github.com/encode-studio-fe/snow-hooks",
-  "homepage": "https://github.com/encode-studio-fe/snow-hooks",
+  "repository": "https://github.com/xuedongZ/snow-hooks",
+  "homepage": "https://github.com//xuedongZ/snow-hooks",
   "scripts": {
     "build": "gulp && webpack-cli"
   },
