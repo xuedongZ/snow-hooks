@@ -6,7 +6,7 @@ export default {
     type: 'none',
     exclude: [],
   },
-  publicPath: '/encode-hooks/',
+  publicPath: '/snow-hooks/',
   history: { type: 'hash' },
   extraBabelPlugins: [
     [
@@ -18,16 +18,16 @@ export default {
       'fusion',
     ],
   ],
-  title: '印客学院 encode hooks',
+  title: 'snow hooks',
   mode: 'site',
-  favicon: '/encode-hooks/avatar.png',
-  logo: '/encode-hooks/avatar.png',
+  favicon: '/snow-hooks/avatar.png',
+  logo: '/snow-hooks/avatar.png',
   dynamicImport: {},
   manifest: {},
   hash: true,
   alias: {
     encodeHooks: `${process.cwd()}/packages/hooks/src/index.ts`,
-    'encode-hooks': `${process.cwd()}/packages/hooks/src/index.ts`,
+    'snow-hooks': `${process.cwd()}/packages/hooks/src/index.ts`,
   },
   resolve: {
     includes: ['docs', 'packages/hooks/src'],
@@ -42,7 +42,7 @@ export default {
   navs: [
     { title: '指南', path: '/guide' },
     { title: 'Hooks', path: '/hooks' },
-    { title: 'GitHub', path: 'https://github.com/encode-studio-fe/encode-hooks' },
+    { title: 'GitHub', path: 'https://github.com/encode-studio-fe/snow-hooks' },
   ],
   menus: {
     '/': [
