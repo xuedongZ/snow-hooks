@@ -1,6 +1,6 @@
 # snow-hooks
 
-React 业务 Hooks 库
+React 业务 Hooks
 
 ## ⛰️ 能力支持
 
