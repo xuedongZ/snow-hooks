@@ -58,7 +58,7 @@ pnpm run changelog
 
 ## 📧 联系
 
-- **snow Hooks** <https://xuedongZ.github.io/snow-hooks/>
+- **snow Hooks**: <https://xuedongZ.github.io/snow-hooks/>
 - **GitHub**: <https://github.com/xuedongZ/snow-hooks>
 
 </br>
